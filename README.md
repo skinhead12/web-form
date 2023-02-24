@@ -10,3 +10,7 @@ datos que se envian en los inputs
 ![image](https://user-images.githubusercontent.com/86309154/221269304-5e9033da-c1f5-4130-acbf-2d3995e3663c.png)
 
 agrego video guia https://youtu.be/ixOcve5PX-Q?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1
+
+resultado 
+![image](https://user-images.githubusercontent.com/86309154/221273484-d7d39904-575d-4071-b671-f67707a74fef.png)
+
